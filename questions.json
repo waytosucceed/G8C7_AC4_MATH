@@ -1,0 +1,57 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "A warehouse has 6048 boxes of screws and 9072 boxes of nails. The manager wants to stack them in piles with the same number of boxes, without mixing screws and nails in the same pile. What is the largest number of boxes in each pile?",
+        "options": [
+            "3024",
+            "2024",
+            "4042",
+            "3032"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Three community projects received donations of 67200, 100800, and 151200 dollars respectively. The community leaders want to distribute the funds evenly across all three projects. What is the maximum amount of money each project can receive?",
+        "options": [
+            "16800",
+            "18600",
+            "21000",
+            "11200"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q3",
+        "question": "A music festival has 3100 red chairs, 4725 blue chairs and 6305 green chairs. The organisers want to arrange the chairs in rows such that each row has the same number of each colour chair. What is the greatest number of chairs that can be in each row?",
+        "options": [
+            "4",
+            "7",
+            "5",
+            "6"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q4",
+        "question": "A book club has 9700 mystery novels, 2580 horror novels and 1540 science fiction novels. The club wants to distribute these books into packages such that each package contains the same number of each type of books without any leftovers. What is the greatest number of packages that can be made?",
+        "options": [
+            "200",
+            "20",
+            "25",
+            "250"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q5",
+        "question": "An NGO has received 1111 pencils, 4444 pens, 3333 notebooks, and 2222 erasers as donations. The NGO wants to distribute the supplies equally among several schools, ensuring each school receives the same number of items. What is the greatest number of schools that can receive the supplies?",
+        "options": [
+            "1212",
+            "1112",
+            "1111",
+            "1001"
+        ],
+        "correct": 2
+    }
+]
